@@ -1,2 +1,3 @@
-branch  file  deletion updated
+branch  file  deletion updated 
+diff comparison
 git branch push check with file alterations
